@@ -1,7 +1,7 @@
 {
-    "name": "windy-plugin-examples",
-    "version": "0.5.0",
-    "description": "Windy plugin system enables anyone, with basic knowledge of Javascript to enhance Windy with new functionality (default desc).",
+    "name": "windy-plugin-sigmets",
+    "version": "1.0.2",
+    "description": "This plugin overlays current SIGMETs from aviationweather.gov",
     "main": "dist/plugin.js",
     "scripts": {
         "start": "node ./compiler.js --build --watch --prompt --serve --transpile",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/windycom/windy-plugins"
+        "url": "git+https://github.com/mtrunz/windy-plugin-sigmets"
     },
     "author": "Windyty, S.E.",
     "license": "MIT",
