@@ -1,7 +1,7 @@
 {
-    "name": "windy-plugin-template",
-    "version": "2.0.2",
-    "description": "Template for developing Windy Plugins",
+    "name": "windy-plugin-sigmets",
+    "version": "1.0",
+    "description": "Overlaying Aviation Weather SIGMETs",
     "main": "dist/plugin.min.js",
     "type": "module",
     "scripts": {
@@ -18,17 +18,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/windycom/windy-plugin-template.git"
+        "url": "git+https://github.com/Digital-Aviation-Studio/windy-plugin-sigmets.git"
     },
     "keywords": [
         "windy",
         "windy.com",
         "plugins"
     ],
-    "author": "Windyty, S.E.",
+    "author": "Digital Aviation Studio",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/windycom/windy-plugin-template/issues"
+        "url": "https://github.com/Digital-Aviation-Studio/windy-plugin-sigmets/issues"
     },
     "homepage": "https://docs.windy-plugins.com/",
     "dependencies": {
