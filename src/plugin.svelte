@@ -61,7 +61,7 @@
                     recent_sigmets_properties = [];
                 }
                 $.ajax({ 
-                    url: 'https://digital-aviation.studio/windy/getSigmets.php',
+                    url: 'https://mariotrunz.me/windy/getSigmets.php',
                     type: 'GET',
                     success: function(response)
                     {
