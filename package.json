@@ -18,17 +18,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Digital-Aviation-Studio/windy-plugin-sigmets.git"
+        "url": "git+https://github.com/mtrunz/windy-plugin-sigmets.git"
     },
     "keywords": [
         "windy",
         "windy.com",
         "plugins"
     ],
-    "author": "Digital Aviation Studio",
+    "author": "Mario Trunz",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Digital-Aviation-Studio/windy-plugin-sigmets/issues"
+        "url": "https://github.com/mtrunz/windy-plugin-sigmets/issues"
     },
     "homepage": "https://docs.windy-plugins.com/",
     "dependencies": {
